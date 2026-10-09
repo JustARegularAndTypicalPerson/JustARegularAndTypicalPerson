@@ -12,6 +12,8 @@ A .NET 10 Windows tray utility for monitoring Codex usage and switching local ac
 
 Freelance work sample (2024–2026): a Flask application with account/business flows, SQLAlchemy models, Redis-backed job queues and status APIs, and Playwright-based business-directory automation. The public snapshot omits client website captures, browser state, contact details, and production credentials; integrations have not been run end to end from this snapshot.
 
+Related [PassPortScraper worker](https://github.com/JustARegularAndTypicalPerson/PassPortScraper): Redis job dispatch and Playwright workflows for Yandex Business and 2GIS. Five mocked dispatch tests pass; live site workflows have not been verified.
+
 ### [job_redirector](https://github.com/JustARegularAndTypicalPerson/job_redirector/tree/codex/remove-hardcoded-credentials)
 
 Python workflow automation for business-directory operations, using Playwright workers and Redis queues for asynchronous jobs, status tracking, retries, and failed-job handling.
