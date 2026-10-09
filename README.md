@@ -1,12 +1,16 @@
 # Denis Ivashin
 
-Junior C#/.NET and backend developer in Moscow / Khimki, looking for part-time work during my studies at MTUCI. I can work up to 20 hours per week during term and expect to graduate in 2027. Russian and English: C2.
+Junior C#/.NET and backend developer in Moscow / Khimki, looking for paid part-time work during my studies at MTUCI. Available for up to 20 hours per week during term; expected graduation in 2027. Russian: C2. English: C2.
 
 ## Selected projects
 
 ### [CodexUsageTray](https://github.com/JustARegularAndTypicalPerson/CodexUsageTray)
 
 A .NET 10 Windows tray utility for monitoring Codex usage and switching local accounts. It includes DPAPI-protected sign-in storage, an MCP server, and session hooks for account-aware automation. The safe account-switch policy checks pass; interactive switching is documented as not yet smoke-tested.
+
+### [Pass-port Handbook and Job Dispatch](https://github.com/JustARegularAndTypicalPerson/PassPortHandbook)
+
+Freelance work sample (2024–2026): a Flask application with account/business flows, SQLAlchemy models, Redis-backed job queues and status APIs, and Playwright-based business-directory automation. The public snapshot omits client website captures, browser state, contact details, and production credentials; integrations have not been run end to end from this snapshot.
 
 ### [job_redirector](https://github.com/JustARegularAndTypicalPerson/job_redirector/tree/codex/remove-hardcoded-credentials)
 
@@ -24,4 +28,4 @@ A cloud-hosted, multi-service .NET application for automated trading workflows a
 
 ## Education
 
-Moscow Technical University of Communications and Informatics (MTUCI), fourth year. Expected graduation: 2027. Program: Infocommunication Technologies and Communication Systems; profile: Secure Infocommunication Systems.
+Moscow Technical University of Communications and Informatics (MTUCI), fourth year. Expected graduation: 2027.
